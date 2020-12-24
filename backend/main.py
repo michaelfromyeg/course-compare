@@ -37,6 +37,7 @@ def _test():
 
     print(USERS[0].classmates(USERS[1:]))
     
+app.run()
 
 if __name__ == '__main__':
     _test()

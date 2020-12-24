@@ -2,6 +2,19 @@
 
 Compare what courses you're taking with your friends, through the upload of a .ical file.
 
+## About
+
+Current TODO list:
+
+- Finish building CLI version
+- File upload on the frontend
+- Link upload on the frontend
+- Get sharable link from file
+- Write backend logic for checking what courses you have in common
+- Support for tutorials, labs, discussions (part of one course)
+- Create an account
+- Use Firebase
+
 ## Usage
 
 TODO
